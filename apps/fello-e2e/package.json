@@ -1,10 +1,10 @@
 {
-  "name": "django_nextjs-e2e",
+  "name": "fello-e2e",
   "version": "0.0.1",
   "private": true,
   "nx": {
     "implicitDependencies": [
-      "django_nextjs"
+      "fello"
     ]
   }
 }

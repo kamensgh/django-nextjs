@@ -1,9 +1,9 @@
 {
-  "name": "@django-nextjs/django_nextjs",
+  "name": "@django-nextjs/fello",
   "version": "0.0.1",
   "private": true,
   "nx": {
-    "name": "django_nextjs"
+    "name": "fello"
   },
   "dependencies": {
     "next": "~15.1.4",

@@ -16,19 +16,19 @@
 To run the dev server for your app, use:
 
 ```sh
-npx nx dev django_nextjs
+npx nx dev fello
 ```
 
 To create a production bundle:
 
 ```sh
-npx nx build django_nextjs
+npx nx build fello
 ```
 
 To see all available targets to run for a project, run:
 
 ```sh
-npx nx show project django_nextjs
+npx nx show project fello
 ```
 
 These targets are either [inferred automatically](https://nx.dev/concepts/inferred-tasks?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects) or defined in the `project.json` or `package.json` files.

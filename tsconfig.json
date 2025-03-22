@@ -4,10 +4,10 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/django_nextjs-e2e"
+      "path": "./apps/fello-e2e"
     },
     {
-      "path": "./apps/django_nextjs"
+      "path": "./apps/fello"
     }
   ]
 }
